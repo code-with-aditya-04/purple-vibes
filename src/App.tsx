@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<BirthdayGreeting />} />
+        <Route path="/happy-birthday" element={<BirthdayGreeting />} />
         <Route path="/surprise" element={<Surprise />} />
         <Route path="/message" element={<Message />} />
       </Routes>
