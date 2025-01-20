@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: "/happy-birthday/"
+  base: "/purple-vibes/"
 });
